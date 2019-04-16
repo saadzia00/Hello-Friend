@@ -1,0 +1,6 @@
+echo '{
+"host_config_key":"8a7c8a24-a2ef-49n1-b789-0586c8d9f60a",
+"extra_vars":
+{
+	"arista_role":"spine"}
+}' | tee /tmp/ansible_callback.json
